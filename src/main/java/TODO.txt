@@ -1,0 +1,25 @@
+
+- make the kotlin example!!
+
+- make examples in html
+
+- make examples when working on jworks blog
+
+- make a better live template
+
+
+
+==================
+    SLIDES
+==================
+
+- inrtoduction
+    name, title, jworks logo, lightning
+
+- Why am I giving this talk?
+  Why use Live Templates?
+
+- example
+
+
+- where to learn more
