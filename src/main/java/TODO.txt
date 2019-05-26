@@ -7,24 +7,3 @@
 
 - make a better live template
 
-
-==================
-    SLIDES
-==================
-
-- inrtoduction
-    name, title, jworks logo, lightning
-
-- Why am I giving this talk?
-  Why use Live Templates?
-       --> I am giving this talk because I notice many people don't know this feature in IntelliJ.
-           And those who do know it wish they would use it more often.
-           It's useful to know Live Templates can be defined as they can save some time performing tedious tasks.
-
-- examples
-    url to git repo
-
-
-- where to learn more
-   https://www.jetbrains.com/help/idea/2019.1/settings-live-templates.html
-   https://www.jetbrains.com/help/idea/2019.1/edit-template-variables-dialog.html
