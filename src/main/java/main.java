@@ -7,7 +7,7 @@ public class main {
     // This is a Live Template provided by IntelliJ
     public static void main(String[] args) {
 
-        ReadWriteLock lock = new ReadWriteLock() {
+        ReadWriteLock lockylock = new ReadWriteLock() {
             public Lock readLock() {
                 return null;
             }
@@ -20,15 +20,12 @@ public class main {
         String somestring = "blabla";
 
 
-        lock.writeLock().lock();
-        try {
+        // TODO: this code needs to be locked
+        // TODO: select, cmd + alt + t, r
+        // The generated code automatically uses the correct declared variable
 
-            int a = 2 + 3;
-            int b = a * 6;
-        } finally {
-            lock.writeLock().unlock();
-        }
-
+        int a = 2 + 3;
+        int b = a * 6;
 
     }
 }

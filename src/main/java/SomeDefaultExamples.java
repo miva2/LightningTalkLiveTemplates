@@ -8,6 +8,8 @@ public class SomeDefaultExamples {
 
 
     // TODO make main method
+    //  psvm
+
 
     void loopThroughList(){
 
@@ -32,7 +34,9 @@ public class SomeDefaultExamples {
         String somestring = "blabla";
 
 
-        // lock this code
+        // TODO: this code needs to be locked
+        //  select, cmd + alt + t, r
+        // The generated code automatically uses the correct declared variable
         int a = 2 + 3;
         int b = a * 6;
 
