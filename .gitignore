@@ -4,3 +4,5 @@
 LiveTemplatesExamples\.iml
 
 presentation/\.DS_Store
+
+presentation/node_modules/
