@@ -7,17 +7,21 @@ internal data class DataClass(
         val name: String,
 
         // TODO manually split annotation in param and field
-        @JsonProperty("someId")
+        @param:JsonProperty("someId")
+        @field:JsonProperty("someId")
         val someId: Long,
 
         // TODO: use live template cmd + alt + t, a
-        @JsonProperty("thisIsANumber")
+        @param:JsonProperty("thisIsANumber")
+        @field:JsonProperty("thisIsANumber")
         val favouriteNumber: Long,
 
-        @JsonProperty("data")
+        @param:JsonProperty("data")
+        @field:JsonProperty("data")
         val data: String,
 
-        @JsonProperty("otherData")
+        @param:JsonProperty("otherData")
+        @field:JsonProperty("otherData")
         val moreData: String
 
 )
