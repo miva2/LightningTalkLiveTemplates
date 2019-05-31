@@ -10,7 +10,7 @@ internal data class DataClass(
         @JsonProperty("someId")
         val someId: Long,
 
-        // TODO: use live template cmd + alt + t, a
+        // TODO: use custom live template cmd + alt + t, a
         @JsonProperty("thisIsANumber")
         val favouriteNumber: Long,
 
