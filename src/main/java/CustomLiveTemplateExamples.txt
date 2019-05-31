@@ -54,6 +54,6 @@ In JWorks blog files:
 
     Easy way to write markdown urls.
     Can be optimized by using a variable instead of $SELECTION$ to show text instead of the full url.
-    This was not needed in my case.
+    The url variable could by default be the selected text.
 
         [$SELECTION$]($url$)
